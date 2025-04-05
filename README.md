@@ -1,17 +1,16 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 <h1 align="center">Hey 👋, I'm Shivanshu Panwar</h1>
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Java+Programmer;Front+End+Developer;MCA"/>
-<h3 align="center">A passionate Web Developer and Java Programmer</h3>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=BackEnd+Developer"/>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivanshuPanwar&label=Profile%20views&color=0e75b6&style=flat" alt="ShivanshuPanwar" /> </p>
 <img align="right" alt="Coder" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400" />
 
-- ✔ Data Structure and Algorithm with **Java**
   
 - 🌱 I’m currently learning and exploring **DSA**
 
-- 💬 Ask me about **HTML || CSS || JavaScript || JAVA ||**
+- 💬 Ask me about **Node.js || Express.js || MySQL || Redis ||**
 
 - 📫 Reach me at 👉 **shivanshupanwar19@gmail.com**
 
